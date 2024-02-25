@@ -74,7 +74,7 @@ button:hover {
 }
 
 #background.night {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url('./background-night.jpeg');
+    background-image: url('./background-night.jpeg');
 }
 
 .window {
@@ -192,12 +192,14 @@ button:hover {
     margin-bottom: 2rem;  
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 67.5rem) {
     .header-section {
         justify-content: space-between;
     }
     
 }
+
+
 
 .user-input-window {
     margin-top: -3rem;
@@ -224,5 +226,20 @@ button:hover {
     bottom: 1.5rem;
     right: 1.5rem;
     padding: 10px;
+}
+
+@media (max-width: 45rem) {
+    .window--main {
+        width: 100%;
+    }
+
+    .container--possible {
+        max-height: 33rem;
+        overflow: auto;
+    }
+
+    .user-input-window {
+        min-width: auto;
+    }
 }
 
