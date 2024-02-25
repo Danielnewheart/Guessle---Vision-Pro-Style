@@ -1,7 +1,8 @@
 
 ![Screenshot of Guessle](https://github.com/Danielnewheart/vision-pro-guessle/assets/87961226/156fd72d-ed34-4e97-8e7b-269fbdebaa38)
 
-[中文版](#中文介紹) | [English Version](#guessle---vision-pro-style)
+[中文版](#中文介紹) | [English Version](#guessle---vision-pro-style) 
+[Live Demo](https://guessle-vision-pro-style.onrender.com/) may be loaded for up to 50 seconds because of server wake-up.
 
 # Guessle - Vision Pro Style
 
